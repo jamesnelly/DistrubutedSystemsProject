@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Project.DS.Password.java&apos; to &apos;Passwords.java&apos;&#x0D;&#x0A;- Original project: &apos;DS&apos;&#x0D;&#x0A;- Original element: &apos;Project.DS.Password.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Project.DS.Passwords.java&apos;" description="Rename compilation unit &apos;Password.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;Project.DS{Password.java" name="Passwords.java" references="false" stamp="1572005968482" version="1.0"/>
+</session>
